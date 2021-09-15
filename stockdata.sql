@@ -1,1 +1,0 @@
-SELECT * FROM shoppingdb.daily_price;
